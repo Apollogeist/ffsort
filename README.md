@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/16374972/111697268-5b1f7600-8803-11eb-811d-e571bc91b673.png)
+![logo](img/logo.png)
 
 A modern, performant approach to sorting arrays.
 
