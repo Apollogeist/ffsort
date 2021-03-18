@@ -1,6 +1,7 @@
 /**
  * Sorts the given array in ascending order
  * @param {Array} arr The array to sort
+ * @param {Boolean} useVerbose
  */
 exports.ascending = function(arr, useVerbose) {
     if (useVerbose) console.log(`[${new Date().toISOString()}] Preparing sorting algorithm...`);
@@ -19,6 +20,11 @@ exports.ascending = function(arr, useVerbose) {
     return arr;
 }
 
+/**
+ * Sorts the given array in descending order
+ * @param {Array} arr The array to sort
+ * @param {Boolean} useVerbose
+ */
 exports.descending = function(arr, useVerbose) {
     if (useVerbose) console.log(`[${new Date().toISOString()}] Preparing sorting algorithm...`);
     for (let j=0; j<arr.length; j++) {
