@@ -1,0 +1,14 @@
+{
+  "name": "ffsort",
+  "version": "1.0.0",
+  "description": "A modern, performant approach to sorting arrays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sort"
+  ],
+  "author": "Apollogeist",
+  "license": "ISC"
+}
