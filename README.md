@@ -1,8 +1,8 @@
-> :warning: **The ffsort repository is no longer in active development**: The module is no longer guaranteed to work, use at your own risk.
-
 ![logo](img/logo.png)
 
 A modern, performant approach to sorting arrays.
+
+### :warning: The ffsort repository is no longer in active development. The module is not guaranteed to work, use at your own risk.
 
 ## Why ffsort?
 We designed ffsort to be lightweight and portable with zero dependencies. It works almost anywhere, making it ideal for production environments. The simplicity of the algorithm combined with the elegancy of the execution make ffsort the definitive sorting solution.
