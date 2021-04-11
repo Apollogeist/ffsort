@@ -1,3 +1,5 @@
+> :warning: **The ffsort repository is no longer in active development**: The module is no longer guaranteed to work, use at your own risk.
+
 ![logo](img/logo.png)
 
 A modern, performant approach to sorting arrays.
